@@ -6,6 +6,6 @@ A aplicação é simples: consiste em uma automação Python, feita para cadastr
 A aplicação acessa dados de uma base e cadastra-os no ambiente desejado.
 
 # Tecnologias Utilizadas 
-Bibliotecas: Pandas, Pyautogui, Time.
+Bibliotecas: Pandas, Pyautogui, Time.<br>
 Linguagem: Python
 
